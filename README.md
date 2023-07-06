@@ -6,7 +6,7 @@
 ```js
 export default () => ({
   pronouns: "He" | "Him",
-  pubKey: "866E 3ED1 217B 85DC",
+  pubKey: "#",
   blogUrl: "https://lucaslacerda.pages.dev",
   askMeAbout: [
     "webdev", "tech"
