@@ -1,7 +1,7 @@
 # Lucas Lacerda 👨‍💻
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-araujo-lacerda/)](https://www.linkedin.com/in/lucas-araujo-lacerda/)
 
-👨‍🎓 Majoring in Computer Science and Mathematics  from the University of Delhi (Class of 2022) 
+👨‍🎓 Graduated in Systems Analysis and Development from Universidade Paulista
 
 ```js
 export default () => ({
