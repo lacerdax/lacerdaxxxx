@@ -1,4 +1,4 @@
-# Lucas Lacerda 👨‍💻
+# Lucas Lacerda 🌐
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-araujo-lacerda/)](https://www.linkedin.com/in/lucas-araujo-lacerda/)
 
 👨‍🎓 Graduated in Systems Analysis and Development from Universidade Paulista
