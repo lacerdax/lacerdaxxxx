@@ -14,8 +14,7 @@ export default () => ({
   pubKey: "866E 3ED1 217B 85DC",
   blogUrl: "https://lucaslacerda.pages.dev",
   askMeAbout: [
-    "webdev", "tech", "data",
-    "mathematics", "research"
+    "webdev", "tech"
   ],
   technologies: {
     "languages": ["Python", "Java", "JavaScript",
