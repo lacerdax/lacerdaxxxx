@@ -12,11 +12,8 @@ export default () => ({
     "webdev", "tech"
   ],
   technologies: {
-    "languages": ["Python", "Java", "JavaScript",
-                   "TypeScript", "SQL", "HTML", "CSS", "PHP"],
-    "web": [ "Django", "React", "Angular", "Vue.js", 
-             "Express.js", "Node.js", "jQuery", "Bootstrap", "Materialize CSS",
-           "Spring MVC"],
+    "languages": ["JavaScript", "TypeScript", "PHP", "SQL", "HTML", "CSS"],
+    "web": ["React", "Node.js", "jQuery", "Bootstrap", "Materialize CSS",],
     "databases": [ "PostgreSQL", "MongoDB"],
     "editors": [ "VSCode", "Figma"]
   },
