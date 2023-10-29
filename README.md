@@ -14,8 +14,8 @@ export default () => ({
   technologies: {
     "languages": ["JavaScript", "TypeScript", "PHP", "SQL", "HTML", "CSS"],
     "web": ["React", "Node.js", "jQuery", "Bootstrap", "Materialize CSS",],
-    "databases": [ "PostgreSQL", "MongoDB"],
-    "editors": [ "VSCode", "Figma"]
+    "databases": [ "PostgreSQL", "MongoDB", "Mysql"],
+    "tools": [ "VSCode", "Figma", "Git"]
   },
   training: [
     "Universidade Paulista - Unip | Análise e Desenvolvimento de Sistemas",
