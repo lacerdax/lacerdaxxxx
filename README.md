@@ -5,11 +5,9 @@
 
 ```js
 export default () => ({
-  pronouns: "He" | "Him",
-  pubKey: "#",
-  blogUrl: "https://lucaslacerda.pages.dev",
+  portfolioUrl: "https://lucaslacerda.pages.dev",
   askMeAbout: [
-    "webdev", "tech"
+    "webdev fullstack", "tech" 
   ],
   technologies: {
     "languages": ["JavaScript", "TypeScript", "PHP", "SQL", "HTML", "CSS"],
@@ -20,6 +18,7 @@ export default () => ({
   training: [
     "Universidade Paulista - Unip | Análise e Desenvolvimento de Sistemas",
     "Instituto Federal de Brasília - IFB | Técnico em Desenvolvimento de Sistemas",
+    "Universidade Estácio de Sá | Engenharia de Software"
   ]
 });
 ```
